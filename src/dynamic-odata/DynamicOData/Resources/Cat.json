@@ -1,0 +1,163 @@
+﻿{
+  "Name": "Cat",
+  "Languages": [
+    {
+      "Language": "Deutsch",
+      "Value": "Katze"
+    },
+    {
+      "Language": "English",
+      "Value": "Cat"
+    }
+  ],
+  "Properties": [
+    {
+      "Name": "Name",
+      "TranslatedNames": "Deutsch=Name;English=Name",
+      "DataType": "System.String",
+      "IsKey": true
+    },
+    {
+      "Name": "Weight",
+      "TranslatedNames": "Deutsch=Gewicht;English=Weight",
+      "DataType": "System.Double"
+    },
+    {
+      "Name": "Color",
+      "TranslatedNames": "Deutsch=Farbe;English=Color",
+      "DataType": "System.String"
+    },
+    {
+      "Name": "Birthday",
+      "TranslatedNames": "Deutsch=Geburtstag;English=Birthday",
+      "DataType": "System.DateTime"
+    },
+    {
+      "Name": "Vaccinations",
+      "TranslatedNames": "Deutsch=Impfungen;English=Vaccinations",
+      "DataType": "System.Int32"
+    }
+  ],
+  "Data": [
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Susanne"
+        },
+        {
+          "Property": "Weight",
+          "Value": "4.3"
+        },
+        {
+          "Property": "Color",
+          "Value": "Brown"
+        },
+        {
+          "Property": "Birthday",
+          "Value": "5/1/2019"
+        },
+        {
+          "Property": "Vaccinations",
+          "Value": "5"
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Bruno"
+        },
+        {
+          "Property": "Weight",
+          "Value": "6.1"
+        },
+        {
+          "Property": "Color",
+          "Value": "LightBrown"
+        },
+        {
+          "Property": "Birthday",
+          "Value": "12/12/2005"
+        },
+        {
+          "Property": "Vaccinations",
+          "Value": "22"
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Pico"
+        },
+        {
+          "Property": "Weight",
+          "Value": "2.1"
+        },
+        {
+          "Property": "Color",
+          "Value": "White"
+        },
+        {
+          "Property": "Birthday",
+          "Value": "15/7/2007"
+        },
+        {
+          "Property": "Vaccinations",
+          "Value": "0"
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Pauli"
+        },
+        {
+          "Property": "Weight",
+          "Value": "1.1"
+        },
+        {
+          "Property": "Color",
+          "Value": "Yellow"
+        },
+        {
+          "Property": "Birthday",
+          "Value": "1/4/2018"
+        },
+        {
+          "Property": "Vaccinations",
+          "Value": "1"
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Struppi"
+        },
+        {
+          "Property": "Weight",
+          "Value": "12.1"
+        },
+        {
+          "Property": "Color",
+          "Value": "Black"
+        },
+        {
+          "Property": "Birthday",
+          "Value": "12/1/2005"
+        },
+        {
+          "Property": "Vaccinations",
+          "Value": "24"
+        }
+      ]
+    }
+  ]
+}

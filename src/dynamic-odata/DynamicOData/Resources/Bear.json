@@ -1,0 +1,52 @@
+﻿{
+  "Name": "Bear",
+  "Languages": [
+    {
+      "Language": "Deutsch",
+      "Value": "Bär"
+    },
+    {
+      "Language": "English",
+      "Value": "Bear"
+    }
+  ],
+  "Properties": [
+    {
+      "Name": "Name",
+      "TranslatedNames": "Deutsch=Name;English=Name",
+      "DataType": "System.String",
+      "IsKey": true
+    },
+    {
+      "Name": "Weight",
+      "TranslatedNames": "Deutsch=Gewicht;English=Weight",
+      "DataType": "System.Double"
+    }
+  ],
+  "Data": [
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Susanne"
+        },
+        {
+          "Property": "Weight",
+          "Value": "125.3"
+        }
+      ]
+    },
+    {
+      "Entries": [
+        {
+          "Property": "Name",
+          "Value": "Bruno"
+        },
+        {
+          "Property": "Weight",
+          "Value": "205.1"
+        }
+      ]
+    }
+  ]
+}
